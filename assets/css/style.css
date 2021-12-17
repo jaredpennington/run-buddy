@@ -56,3 +56,8 @@ footer div {
 footer a {
     color: #024e76;
 }
+.hero {
+    padding: 60px;
+    background-image: URL("../css/hero-bg.jpeg");
+    height: 600px;
+}
