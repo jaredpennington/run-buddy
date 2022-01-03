@@ -13,4 +13,4 @@ https://jaredpennington.github.io/run-buddy/
 ## Contribution 
 Made with ❤️ by Jared Pennington
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
