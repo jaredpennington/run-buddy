@@ -67,7 +67,7 @@ footer a {
 
 .hero {
     padding: 60px;
-    background-image: URL("../css/hero-bg.jpeg");
+    background-image: URL("../css/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
